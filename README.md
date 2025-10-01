@@ -73,12 +73,4 @@ pip install pandas numpy matplotlib seaborn scikit-learn statsmodels
 
 In this analysis, various techniques are explored to gain insights from the UPI Transactions dataset. The results include identifying daily transaction patterns, building a predictive model for transaction success, detecting anomalies, and clustering transactions into distinct groups. Further analysis could involve more sophisticated models for predictive analytics and deeper investigation into anomalies for fraud prevention.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Contributing
-
-Contributions are welcome. If you would like to contribute to this project, please fork the repository and submit a pull request. For major changes, please open an issue first to discuss what you would like to change.
-
 ----------------------------------------------------------------
